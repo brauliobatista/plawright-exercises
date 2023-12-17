@@ -1,0 +1,11 @@
+{
+  "ItemsTitle": "Products",
+  "numberOfItems": "2",
+  "quantity1": "1",
+  "firstName": "Braulio",
+  "lastName": "Batista",
+  "zip": "4750",
+  "itemTitle": "Sauce Labs Backpack",
+  "summaryPrice": "32.39",
+  "successOrderMessage": "Thank you for your order!"
+}
